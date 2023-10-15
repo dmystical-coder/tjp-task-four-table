@@ -8,11 +8,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #fee3d8;
   font-family: "Montserrat", sans-serif;
 }
 
 main {
+  background-color: #fee3d8;
   display: flex;
   justify-content: center;
   align-items: center;
